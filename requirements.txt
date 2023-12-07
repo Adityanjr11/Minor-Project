@@ -2,3 +2,5 @@ spacy
 streamlit
 sklearn
 pickle
+numpy
+pandas
