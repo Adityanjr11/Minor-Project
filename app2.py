@@ -44,7 +44,7 @@ def remove_punct_stop(description1):
 description = encode(remove_punct_stop((description)))
 
 
-if st.button('Predict Price'):
+if st.button('Predict Budget'):
     query = np.array([total_budget_changes, total_schedule_changes, estimated_days, description])
     query = query.reshape(1, -1)
 
