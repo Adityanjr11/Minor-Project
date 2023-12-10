@@ -6,9 +6,6 @@ import spacy
 
 import locale
 
-export LC_ALL="en_US.UTF-8"
-export LC_CTYPE="en_US.UTF-8"
-sudo dpkg-reconfigure locales
 
 # Set the locale to your system's default (or a specific locale if needed)
 locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
