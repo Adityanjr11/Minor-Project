@@ -4,7 +4,7 @@ import numpy as np
 import spacy
 import locale
 
-locale.setlocale(locale.LC_ALL, "de_DE")
+locale.setlocale(locale.LC_ALL, "de_DE.UTF-8")
 
 nlp = spacy.load('en_core_web_sm')
 
