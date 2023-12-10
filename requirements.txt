@@ -2,4 +2,4 @@ spacy
 numpy
 pandas
 streamlit
-locales
+locale
