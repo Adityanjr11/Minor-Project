@@ -1,7 +1,6 @@
 spacy
 streamlit
-sklearn
 pickle
 numpy
 pandas
-scikit-learn
+
