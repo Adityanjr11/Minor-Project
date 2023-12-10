@@ -8,7 +8,7 @@ import locale
 
 
 # Set the locale to your system's default (or a specific locale if needed)
-locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
+locale.setlocale(locale.LC_ALL, 'en_CA.UTF-8')
 
 nlp = spacy.load('en_core_web_sm')
 
