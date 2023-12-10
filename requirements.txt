@@ -1,6 +1,5 @@
 spacy
 streamlit
-pickle
 numpy
 pandas
 
