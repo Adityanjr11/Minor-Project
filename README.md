@@ -43,4 +43,4 @@ Estimating construction costs is notoriously difficult due to variables like mat
 
 ### 1. Clone the Repository
 ```bash
-https://github.com/Adityanjr11/Minor-Project.git
+git clone https://github.com/YOUR_USERNAME/Minor-Project.git
