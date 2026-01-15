@@ -43,5 +43,5 @@ Estimating construction costs is notoriously difficult due to variables like mat
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/construction-budget-prediction.git](https://github.com/your-username/construction-budget-prediction.git)
-cd construction-budget-prediction
+[git clone [https://github.com/your-username/construction-budget-prediction.git](https://github.com/your-username/construction-budget-prediction.git)
+cd construction-budget-prediction](https://github.com/Adityanjr11/Minor-Project.git)
